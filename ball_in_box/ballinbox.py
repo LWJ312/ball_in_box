@@ -1,7 +1,7 @@
 import math
 import random
-import numpy
-import validate as val
+import numpy 
+from .validate import validate 
 
 __all__ = ['ball_in_box']
 
