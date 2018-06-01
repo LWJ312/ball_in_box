@@ -1,6 +1,6 @@
 import math
-import ball_in_box.ballinbox as bb
-import ball_in_box.validate as val
+import ballinbox as bb
+import validate as val
 # import matplotlib.pyplot as plt
 # from matplotlib.patches import Ellipse,Circle
 
